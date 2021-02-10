@@ -1,0 +1,15 @@
+<style> 
+p1 { color: red;}
+p2 {color: blue;}
+p3 {color: green;}
+p4  {font-size: large;}
+p5  {font-size: x-small;}
+p6 .center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+
+
+</style
